@@ -7,6 +7,16 @@
 		"type": "git",
 		"url": "https://github.com/Vikang/god-is-a-woman-theme.git"
 	},
+	"keywords": [
+		"theme",
+		"light theme",
+		"vikang",
+		"ariana",
+		"ariana grande",
+		"god is a woman",
+		"god is a woman light",
+		"pink"
+	],
 	"colors": {
 	  "activityBar.background": "#ebd4e6",
 	  "activityBar.foreground": "#5d5094",
