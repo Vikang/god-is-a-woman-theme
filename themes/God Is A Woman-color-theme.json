@@ -3,6 +3,10 @@
 	"displayName": "God Is A Woman Light",
 	"version": "1.0.0",
 	"publisher": "Vikang",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Vikang/god-is-a-woman-theme.git"
+	},
 	"colors": {
 	  "activityBar.background": "#ebd4e6",
 	  "activityBar.foreground": "#5d5094",
