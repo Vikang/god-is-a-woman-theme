@@ -1,0 +1,21 @@
+{
+    "name": "god-is-a-woman",
+    "displayName": "God Is A Woman",
+    "description": "Inspired by Ariana Grande's album palette",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "God Is A Woman",
+                "uiTheme": "vs",
+                "path": "./themes/God Is A Woman-color-theme.json"
+            }
+        ]
+    }
+}
