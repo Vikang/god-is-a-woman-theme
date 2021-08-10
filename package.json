@@ -2,22 +2,22 @@
     "name": "god-is-a-woman",
     "displayName": "God Is A Woman",
     "description": "Inspired by Ariana Grande's album palette",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "Vikang",
     "repository": {
-		"type": "git",
-		"url": "https://github.com/Vikang/god-is-a-woman-theme.git"
-	},
-	"keywords": [
-		"theme",
-		"light theme",
-		"vikang",
-		"ariana",
-		"ariana grande",
-		"god is a woman",
-		"god is a woman light",
-		"pink"
-	],
+        "type": "git",
+        "url": "https://github.com/Vikang/god-is-a-woman-theme.git"
+    },
+    "keywords": [
+        "theme",
+        "light theme",
+        "vikang",
+        "ariana",
+        "ariana grande",
+        "god is a woman",
+        "god is a woman light",
+        "pink"
+    ],
     "engines": {
         "vscode": "^1.58.0"
     },
