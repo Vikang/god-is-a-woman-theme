@@ -1,14 +1,8 @@
-# README
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# God Is A Woman VS Code Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Are you a serious Arianator? Do you want to code like a queen while feeling like a queen? This theme can give you the confidence of the Pop Princess to debug anything or code any data structure.
 
-*This theme color palette is inspired from God Is A Woman by Ariana Grande.
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+This theme is inspired by the color palette from Ariana Grande's music video God Is A Woman.
 
-**Enjoy!**
-# god-is-a-woman-theme
+# Preview
+
