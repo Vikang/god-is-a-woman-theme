@@ -5,4 +5,4 @@ Are you a serious Arianator? Do you want to code like a queen while feeling like
 This theme is inspired by the color palette from Ariana Grande's music video God Is A Woman.
 
 # Preview
-
+![alt text](https://github.com/Vikang/god-is-a-woman-theme/blob/main/theme.png)
